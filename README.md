@@ -1,6 +1,8 @@
-#Algorithm
+# Algorithm
+
 *NOTE: all decimals printed are rounded to four decimal places. If you use very small numbers you mights see 0, but it would have
 actually calculated it.*
+
 #File Structure
 We have four modules in `src/`.
 > * Children
@@ -106,7 +108,7 @@ Add, subtract, multiply, and divide were even easier. After you filter out the w
 There is also a `toString()` all it does it return the whole number if it is whole, otherwise it will use teh `df` `DecimalFormat` object to round the
 Double to four digits.
 
-##ComplexNumber
+## ComplexNumber
 
 This was the tough one to do. I did not give up though! This was the extra credit. This was my approach to the `ComplexNumber`.
 
